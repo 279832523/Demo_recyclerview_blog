@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" >
+    <size android:width="5dp" android:height="5dp"/>
+    <solid android:color="#ffff0000"/>
+
+</shape>
+
+<!-- From: file:/D:/android_studio%20workspace/Demo_recyclerview_blog2/app/src/main/res/drawable/divider_bg.xml -->

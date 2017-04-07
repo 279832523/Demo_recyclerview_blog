@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_studio workspace\Demo_recyclerview_blog2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\android_studio workspace\Demo_recyclerview_blog2\app\build\intermediates\pre-dexed\debug\classes-1b8f2c9e7a8b01cacd29dd5e141bb9a739e2b3d1.jar" />
+    </item>
+    <item
+        jar="D:\android_studio workspace\Demo_recyclerview_blog2\Test\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\android_studio workspace\Demo_recyclerview_blog2\Test\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-bd3c04f1ba490bb941cf2039fb209c2ff46b7e83.jar" />
+    </item>
+    <item
+        jar="D:\android_studio workspace\Demo_recyclerview_blog2\app\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7c0018e9838fc8c654c6fa83a110c4600b46febd">
+        <dex dex="D:\android_studio workspace\Demo_recyclerview_blog2\app\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview-7fd1875170de01c7727b31fceb7a3a7382b80fdf.jar" />
+    </item>
+    <item
+        jar="D:\Android sdk Studio\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\android_studio workspace\Demo_recyclerview_blog2\Test\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-cf200c9f97ad0eb0084d9f6f1240d3cc1e6685fc.jar" />
+    </item>
+    <item
+        jar="D:\android_studio workspace\Demo_recyclerview_blog2\Test\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\android_studio workspace\Demo_recyclerview_blog2\Test\build\intermediates\pre-dexed\debug\classes-865e1e073f64c0c681dd2be5cb4117bf1d667a4e.jar" />
+    </item>
+    <item
+        jar="D:\android_studio workspace\Demo_recyclerview_blog2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\android_studio workspace\Demo_recyclerview_blog2\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-b310f32879dcb5ba6407d6c6c1a1a172d8a22d99.jar" />
+    </item>
+    <item
+        jar="D:\android_studio workspace\Demo_recyclerview_blog2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\android_studio workspace\Demo_recyclerview_blog2\app\build\intermediates\pre-dexed\debug\classes-a593a04f2e5421a26b9bc3def111c7ec74f770b2.jar" />
+    </item>
+    <item
+        jar="D:\Android sdk Studio\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\android_studio workspace\Demo_recyclerview_blog2\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-cf200c9f97ad0eb0084d9f6f1240d3cc1e6685fc.jar" />
+    </item>
+    <item
+        jar="D:\android_studio workspace\Demo_recyclerview_blog2\Test\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\android_studio workspace\Demo_recyclerview_blog2\Test\build\intermediates\pre-dexed\debug\classes-3f6e42f3dbd5e0a3887b6bbe69fc5a7a4c8a931b.jar" />
+    </item>
+
+</items>
