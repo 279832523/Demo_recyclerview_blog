@@ -85,7 +85,6 @@ public class MainActivity extends Activity {
                         case R.id.a:
                             p.setSelect(0);
                             break;
-
                         case R.id.b:
                             p.setSelect(1);
                             break;
