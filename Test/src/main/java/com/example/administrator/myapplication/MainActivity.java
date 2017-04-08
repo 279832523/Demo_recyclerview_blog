@@ -20,7 +20,7 @@ import java.util.List;
 
 public class MainActivity extends Activity {
     Activity activity=this;
-    List<Person> list= new ArrayList<Person>();
+    List<Person> list= new ArrayList<>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -55,7 +55,7 @@ public class MainActivity extends Activity {
 
         @Override
         public View getView(final int position, View convertView, ViewGroup parent) {
-            Title title=null;
+            Title title;
             if(convertView==null){
                 title=new Title();
                 convertView = LayoutInflater.from(activity).inflate(R.layout.listview_item, null);
@@ -85,6 +85,7 @@ public class MainActivity extends Activity {
                         case R.id.a:
                             p.setSelect(0);
                             break;
+
                         case R.id.b:
                             p.setSelect(1);
                             break;
